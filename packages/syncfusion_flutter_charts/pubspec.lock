@@ -142,7 +142,7 @@ packages:
       path: "packages/syncfusion_flutter_core"
       ref: HEAD
       resolved-ref: "6dee333667a1e7bdc790be90bc544d6e4d780dbd"
-      url: "https://github.com/El-jawsagy/flutter-widgets.git"
+      url: "https://github.com/ahmedbenahmed/flutter-widgets.git"
     source: git
     version: "23.1.36"
   term_glyph:
